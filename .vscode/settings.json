@@ -1,0 +1,24 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#FFDE03",
+    "titleBar.inactiveBackground": "#FFDE03CC"
+  },
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "cSpell.words": [
+    "a",
+    "g",
+    "hng",
+    "i",
+    "irwfa",
+    "iza",
+    "l",
+    "noei",
+    "pi",
+    "sy",
+    "vr",
+    "yy",
+    "zydt"
+  ]
+}
